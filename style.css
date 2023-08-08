@@ -15,7 +15,7 @@ body h1 {
     align-items: center;
     justify-content: center;
     font-size: 28px;
-    margin: 56px auto 0;
+    margin: 20px auto 30px;
 
 }
 
@@ -37,7 +37,7 @@ figcaption {
     font-size: 10px;
     color: #8F8F8F;
     border: 1px solid red;
-    margin:  0px 380px 0;
+    margin:  0px auto 0;
     align-items: right;
     justify-content: right; 
     }
@@ -46,7 +46,7 @@ figcaption {
     background-color: #FFFFFF;
     border: 1px solid red;
     width: 700px;
-    margin: 56px auto 0;
+    margin: 30px auto 0;
     
 }
 
