@@ -61,7 +61,7 @@ ul {
     display: flex;
     flex-direction: column;
     text-align: left;
-    line-height: 90%;
+    line-height: 140%;
     
 
     color: #1B1B1B;
@@ -94,6 +94,6 @@ ol {
     display: flex;
     flex-direction: column;
     text-align: left;
-    line-height: 90%;
+    line-height:140%;
 
 }
